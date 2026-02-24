@@ -7,6 +7,7 @@ Holostate Architecture introduces a new class of multimodal intelligence systems
 
 Through omnidirectional information flow and state-centric active inference, meaning emerges as a property of the entire system in motion instead of a terminal output of sequential layers. Holostate redefines neural architecture as a dynamic cognitive manifold capable of parallel perception, cross-modal fusion, and continuous predictive evolution, establishing the foundations for complex real-time intelligence environments. 
 
+Inspired by ["The Brain’s Learning Algorithm Isn’t Backpropagation"](https://www.youtube.com/watch?v=l-OLgbdZ3kk)
 
 ![A](assets/a.png)
 ![B](assets/b.png)
